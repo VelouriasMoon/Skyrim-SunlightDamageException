@@ -1,0 +1,19 @@
+{
+  "name": "sunlightdamageexception",
+  "version-string": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": [
+    "clib-util",
+    "directxtex",
+    "freetype",
+    "rapidfuzz",
+    "rsm-binary-io",
+    "spdlog",
+    "srell",
+    "unordered-dense",
+    "xbyak"
+  ],
+  "builtin-baseline": "e590c2b30c08caf1dd8d612ec602a003f9784b7d"
+}
